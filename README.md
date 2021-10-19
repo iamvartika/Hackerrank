@@ -1,2 +1,2 @@
 # Hackerrank
-This repository contains the challenges I have completed at HackerRank
+This repository contains codes of the challenges in Hackerrank
